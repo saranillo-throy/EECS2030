@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Lab2Tester" project="EECS2030_Lab2" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="Lab2Tester" time="0.006" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]">
+    <testcase name="testDecimalToBinary2" classname="Lab2Tester" time="0.0" displayname="testDecimalToBinary2" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testDecimalToBinary2(Lab2Tester)]"/>
+    <testcase name="testDecimalToBinary3" classname="Lab2Tester" time="0.0" displayname="testDecimalToBinary3" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testDecimalToBinary3(Lab2Tester)]"/>
+    <testcase name="testDecimalToBinary4" classname="Lab2Tester" time="0.0" displayname="testDecimalToBinary4" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testDecimalToBinary4(Lab2Tester)]"/>
+    <testcase name="testInterlace2" classname="Lab2Tester" time="0.0" displayname="testInterlace2" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testInterlace2(Lab2Tester)]"/>
+    <testcase name="testInterlace3" classname="Lab2Tester" time="0.0" displayname="testInterlace3" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testInterlace3(Lab2Tester)]"/>
+    <testcase name="testMakeString1" classname="Lab2Tester" time="0.0" displayname="testMakeString1" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testMakeString1(Lab2Tester)]"/>
+    <testcase name="testMakeString2" classname="Lab2Tester" time="0.0" displayname="testMakeString2" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testMakeString2(Lab2Tester)]"/>
+    <testcase name="testMakeString3" classname="Lab2Tester" time="0.0" displayname="testMakeString3" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testMakeString3(Lab2Tester)]"/>
+    <testcase name="testSum1" classname="Lab2Tester" time="0.006" displayname="testSum1" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testSum1(Lab2Tester)]"/>
+  </testsuite>
+</testrun>

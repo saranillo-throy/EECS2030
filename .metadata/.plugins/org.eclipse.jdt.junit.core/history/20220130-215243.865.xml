@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Lab2Tester.testMakeString3" project="EECS2030_Lab2" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="Lab2Tester" time="0.001" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]">
+    <testcase name="testMakeString3" classname="Lab2Tester" time="0.001" displayname="testMakeString3" uniqueid="[engine:junit-vintage]/[runner:Lab2Tester]/[test:testMakeString3(Lab2Tester)]"/>
+  </testsuite>
+</testrun>

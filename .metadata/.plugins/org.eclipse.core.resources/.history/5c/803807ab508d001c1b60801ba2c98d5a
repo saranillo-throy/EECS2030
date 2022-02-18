@@ -1,0 +1,118 @@
+package PE1;
+import java.util.ArrayList;
+
+/* PLEASE DO NOT MODIFY A SINGLE STATEMENT IN THE TEXT BELOW.
+READ THE FOLLOWING CAREFULLY AND FILL IN THE GAPS
+
+I hereby declare that all the work that was required to 
+solve the following problem including designing the algorithms
+and writing the code below, is solely my own and that I received
+no help in creating this solution and I have not discussed my solution 
+with anybody. I affirm that I have read and understood
+the Senate Policy on Academic honesty at 
+https://secretariat-policies.info.yorku.ca/policies/academic-honesty-senate-policy-on/
+and I am well aware of the seriousness of the matter and the penalties that I will face as a 
+result of committing plagiarism in this assignment.
+
+BY FILLING THE GAPS,YOU ARE SIGNING THE ABOVE STATEMENTS.
+
+Full Name: Throy Saranillo
+Student Number: 218089730
+Course Section: M
+*/
+
+public class MinDominantSet {
+	int [][] buildings; 
+	ArrayList<Integer[]> combination; 
+	private int size;
+	int index;
+	
+	
+	public static void main(String[] args) {
+		/*
+		 * We don't need this method to solve the problem. I kept
+	     * it here just in case you need to test your code differently.
+		 */
+	}
+	
+	/**
+	 * Constructor method, sets ArrayList to default values.
+	 */
+	public MinDominantSet () {
+		combination = new ArrayList<Integer[]>(); 
+	}
+	
+	/**
+	 * Constructor Method, sets the object variables to their default values.
+	 * @param size: represents the number of buildings on campus
+	 * @param buildings: array that represents the distance between buildings. Can be value
+	 * of 0 or 1. 0 meaning distance is greater than 100m, and 1 meaning it is less than or equal to 100.
+	 */
+	public MinDominantSet (int size, int [][] buildings) {
+		// insert your code here for task 2
+		this.size = size;
+		this.buildings = buildings;
+		combination = new ArrayList<Integer[]>(); 
+		
+	}
+	
+	/**
+	 * Creates an array of integers < n.
+	 * @param n: size of the array to be created
+	 * @return an array of size n, with the elements being integers from 0 to less than n.
+	 */
+	private int factorial(int n) {
+		if (n == 0) {
+			return 1;
+		} else {
+			return n * (factorial(n-1));
+		}
+	}
+	
+	private void combinationHelper(Integer[]inputArr, Integer[] tempArr, int begin, int end, int index, int r) {
+		// when index is equal to r print everything
+	}
+	     
+	void combination(int n, int r) {
+		// insert your code here for task1
+		// Note: this method or its helper must be recursive. 
+		int amntCombination = factorial(n)/factorial(n-r)*factorial(r);
+		Integer[] indivdualCombination = new Integer[r];
+		
+		for (int j = 0; j < r; j ++) {
+			individualCombination[i] = i;
+		}
+		
+		for (int i = 0; i < amntCombination; i ++) {
+			combination.add(indivdualCombination);
+		}
+		
+	}
+
+	
+	public boolean isEnough(int numMachine) {
+		// insert your code here for task 3
+		// you may want to change the return value
+		return true;
+	}
+
+	
+	/**
+	 * This method prints the content of the combination.
+	 * we don't need this method to solve this problem, 
+	 * however it is there to help you see the content of 
+	 * the list, when you check for the correctness of your
+	 * code. 
+	 */
+//	void print() {
+//
+//		for (int i = 0; i < combination.size(); i++) {
+//			for (int j = 0; j < combination.get(i).length; j++) {
+//				System.out.print(combination.get(i)[j]+ "\t"); 
+//			}
+//			System.out.println(); 		
+//		}
+//	}
+//			 
+} // end of MinDominantSet
+

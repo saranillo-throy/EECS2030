@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\saran\Downloads\EECS2030_Winter2022_PE2"/>
+			<item value="C:\Users\saran\Downloads\EECS2030_Lab8"/>
 			<item value="C:\Users\saran\Downloads\EECS2030_Lab7"/>
 			<item value="C:\Users\saran\Downloads\EECS2030_Lab5"/>
 			<item value="C:\Users\saran\Downloads\EECS2030_Lab4"/>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="="/>
+		<item key="selection" value="admitPatie"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="true"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="hireVolun"/>
+			<item value="extractPhysician()"/>
+			<item value=".setSpecialty"/>
+			<item value="Volunteer("/>
+			<item value="Employee"/>
+			<item value="Person("/>
+			<item value="Patient("/>
 			<item value=","/>
-			<item value="assign"/>
-			<item value="new Hospital"/>
-			<item value="ID"/>
-			<item value="ArrayList"/>
-			<item value="merge"/>
-			<item value="withdraw"/>
-			<item value="compare"/>
 		</list>
 		<list key="replacehistory">
 			<item value="="/>
